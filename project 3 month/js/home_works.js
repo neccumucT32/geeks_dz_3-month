@@ -1,4 +1,5 @@
-// 1. DZ#1
+// DZ#1
+// 1.
 const gmailButton = document.querySelector("#gmail_button");
 const gmailInput = document.querySelector("#gmail_input");
 const gmailResult = document.querySelector("#gmail_result");
@@ -36,7 +37,8 @@ const moveChild = () => {
 };
 moveChild();
 
-// 1. DZ#2
+// DZ#2
+// 1.
 const parentBlock = document.querySelector(".parent_block");
 const childBlock = document.querySelector(".child_block");
 
