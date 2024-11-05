@@ -34,8 +34,8 @@ const moveChild = () => {
     setTimeout(moveChild, 30);
   }
 };
-
 moveChild();
+
 // 1. DZ#2
 const parentBlock = document.querySelector(".parent_block");
 const childBlock = document.querySelector(".child_block");
